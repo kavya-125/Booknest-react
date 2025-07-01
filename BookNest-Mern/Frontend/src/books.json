@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "1",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "price": 299,
+    "description": "A classic book for software engineers.",
+    "itemImage": "pragmatic.jpg"
+  },
+  {
+    "_id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "price": 499,
+    "description": "An easy & proven way to build good habits.",
+    "itemImage": "atomic.jpg"
+  },
+  {
+    "_id": "3",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "price": 349,
+    "description": "A Handbook of Agile Software Craftsmanship.",
+    "itemImage": "cleancode.jpg"
+  }
+]
